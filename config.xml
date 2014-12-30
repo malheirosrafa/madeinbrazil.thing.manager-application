@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.madeinbrazilerpmanagerapplication920654" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Thing Manager</name>
-  <description>
+<widget id="madeinbrazil.thing.manager-application" version="0.0.1"
+        xmlns="http://www.w3.org/ns/widgets"
+        xmlns:cdv="http://cordova.apache.org/ns/1.0"
+        xmlns:gap = "http://phonegap.com/ns/1.0">
+    <name>Thing Manager</name>
+    <description>
         Thing - Manager Application
     </description>
-  <author email="rafael_malheiros@hotmail.com" href="firstsolution.com.br">
-      Rafael Malheiros
+    <author email="rafael_malheiros@hotmail.com" href="firstsolution.com.br">
+        Rafael Malheiros
     </author>
-  <content src="index.html"/>
-  <access origin="*"/>
-  <preference name="webviewbounce" value="false"/>
-  <preference name="UIWebViewBounce" value="false"/>
-  <preference name="DisallowOverscroll" value="true"/>
-  <preference name="BackupWebStorage" value="none"/>
-  <feature name="StatusBar">
-    <param name="ios-package" value="CDVStatusBar" onload="true"/>
-  </feature>
+    <content src="index.html"/>
+    <access origin="*"/>
+    <preference name="webviewbounce" value="false"/>
+    <preference name="UIWebViewBounce" value="false"/>
+    <preference name="DisallowOverscroll" value="true"/>
+    <preference name="BackupWebStorage" value="none"/>
+    <feature name="StatusBar">
+        <param name="ios-package" value="CDVStatusBar" onload="true"/>
+    </feature>
 
-  <icon src="www/icon.png" />
-  <icon src="www/res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
-  <icon src="www/res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
-  <icon src="www/res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
-  <icon src="www/res/icon/android/icon-96-xhdpi.png"  gap:platform="android"    gap:density="xhdpi" />
+    <icon src="www/icon.png"/>
+    <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi"/>
+    <icon src="www/res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi"/>
+    <icon src="www/res/icon/android/icon-72-hdpi.png" gap:platform="android" gap:density="hdpi"/>
+    <icon src="www/res/icon/android/icon-96-xhdpi.png" gap:platform="android" gap:density="xhdpi"/>
 
-  <gap:platform name="android" />
-  
+    <gap:platform name="android"/>
 </widget>
