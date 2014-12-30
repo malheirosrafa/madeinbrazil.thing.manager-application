@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="999d6241-1905-4f33-8706-0dade2c9369f" name="Default" comment="" />
+    <list default="true" id="999d6241-1905-4f33-8706-0dade2c9369f" name="Default" comment="set name and description in config.xml">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/config.xml" afterPath="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/.idea/workspace.xml" />
+    </list>
     <ignored path="madeinbrazil.thing-manager-application.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +29,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="agenda.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/templates/agenda.html">
+        <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/templates/agenda.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="825">
               <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
@@ -34,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/templates/menu.html">
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/templates/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4177449" vertical-offset="14" max-vertical-offset="555">
+            <state vertical-scroll-proportion="-9.416667" vertical-offset="14" max-vertical-offset="555">
               <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.053097345" vertical-offset="0" max-vertical-offset="565">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -46,17 +60,21 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../madeinbrazil.thing.manager-application" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing-manager-application/www/js/controllers.js" />
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing-manager-application/www/templates/orders.html" />
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing-manager-application/www/templates/order.html" />
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing-manager-application/www/js/app.js" />
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing-manager-application/bower.json" />
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing-manager-application/www/templates/agenda.html" />
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing-manager-application/www/templates/menu.html" />
-        <option value="$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/bower.json" />
+        <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/templates/orders.html" />
+        <option value="$PROJECT_DIR$/www/templates/order.html" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/www/templates/agenda.html" />
+        <option value="$PROJECT_DIR$/www/templates/menu.html" />
+        <option value="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/bower.json" />
+        <option value="$PROJECT_DIR$/../madeinbrazil.thing.manager-application/config.xml" />
       </list>
     </option>
   </component>
@@ -64,7 +82,7 @@
     <detection-done>true</detection-done>
     <gulpfiles>
       <GulpfileState>
-        <gulpfile-path>$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/gulpfile.js</gulpfile-path>
+        <gulpfile-path>$PROJECT_DIR$/../madeinbrazil.thing.manager-application/gulpfile.js</gulpfile-path>
       </GulpfileState>
     </gulpfiles>
   </component>
@@ -74,7 +92,7 @@
     <option name="width" value="1242" />
     <option name="height" value="685" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -99,6 +117,12 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="madeinbrazil.thing.manager-application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="madeinbrazil.thing.manager-application" />
@@ -131,6 +155,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -182,9 +209,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="123" y="29" width="1242" height="685" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288364" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -195,7 +222,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979524" sideWeight="0.49874687" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979524" sideWeight="0.49874687" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -220,13 +247,15 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="set name and description in config.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="set name and description in config.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/scss/ionic.app.scss">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/scss/ionic.app.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.2244898" vertical-offset="0" max-vertical-offset="435">
           <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
@@ -234,7 +263,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/templates/order.html">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/templates/order.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
@@ -242,7 +271,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/templates/orders.html">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/templates/orders.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13863216" vertical-offset="0" max-vertical-offset="541">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -250,7 +279,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/js/app.js">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5522124" vertical-offset="438" max-vertical-offset="1020">
           <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
@@ -258,7 +287,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9238938" vertical-offset="18" max-vertical-offset="765">
           <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
@@ -266,7 +295,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/templates/agenda.html">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/templates/agenda.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="825">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
@@ -274,7 +303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/bower.json">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.055452865" vertical-offset="0" max-vertical-offset="541">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
@@ -282,10 +311,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/madeinbrazil.thing.manager-application/www/templates/menu.html">
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/www/templates/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4177449" vertical-offset="14" max-vertical-offset="555">
+        <state vertical-scroll-proportion="-9.416667" vertical-offset="14" max-vertical-offset="555">
           <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../madeinbrazil.thing.manager-application/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.053097345" vertical-offset="0" max-vertical-offset="565">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>

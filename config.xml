@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.madeinbrazilerpmanagerapplication920654" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>madeinbrazil.erp-manager-application</name>
+  <name>Thing Manager</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Thing - Manager Application
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="rafael_malheiros@hotmail.com" href="firstsolution.com.br">
+      Rafael Malheiros
     </author>
   <content src="index.html"/>
   <access origin="*"/>
