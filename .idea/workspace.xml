@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999d6241-1905-4f33-8706-0dade2c9369f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/css/ionicons.ttf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/ionic.app.css" afterPath="$PROJECT_DIR$/www/css/ionic.app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/ionic.app.min.css" afterPath="$PROJECT_DIR$/www/css/ionic.app.min.css" />
@@ -52,8 +53,8 @@
       <file leaf-file-name="_ionicons-font.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13863216" vertical-offset="0" max-vertical-offset="541">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.47134936" vertical-offset="0" max-vertical-offset="541">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -362,7 +363,19 @@
       <option name="project" value="LOCAL" />
       <updated>1420009398341</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="bug no ionicons em honeycomb teste:4">
+      <created>1420010948277</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1420010948277</updated>
+    </task>
+    <task id="LOCAL-00012" summary="bug no ionicons em honeycomb teste:5">
+      <created>1420011625126</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1420011625126</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,7 +429,8 @@
     <MESSAGE value="bug no ionicons em honeycomb teste:2" />
     <MESSAGE value="bug no ionicons em honeycomb teste:3" />
     <MESSAGE value="bug no ionicons em honeycomb teste:4" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug no ionicons em honeycomb teste:4" />
+    <MESSAGE value="bug no ionicons em honeycomb teste:5" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug no ionicons em honeycomb teste:5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -618,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13863216" vertical-offset="0" max-vertical-offset="541">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.47134936" vertical-offset="0" max-vertical-offset="541">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding />
         </state>
       </provider>
