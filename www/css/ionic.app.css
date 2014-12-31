@@ -22,7 +22,7 @@ $dark:                            #444 !default;
 */
 @font-face {
   font-family: "Ionicons";
-  src: url("ionicons.ttf?") format("truetype");
+  src: url("file:///android_asset/www/css/ionicons.ttf") format("truetype");
   /*src:url("../lib/ionic/fonts/ionicons.eot?v=1.5.2");
    src:url("../lib/ionic/fonts/ionicons.eot?v=1.5.2#iefix") format("embedded-opentype"),
     url("../lib/ionic/fonts/ionicons.ttf?v=1.5.2") format("truetype"),
