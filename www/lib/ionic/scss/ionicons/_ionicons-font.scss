@@ -3,7 +3,7 @@
 
 @font-face {
  font-family: $ionicons-font-family;
- src:url("file:///android_asset/www/css/ionicons.ttf") format("truetype");
+ src:url("./ionicons.ttf") format("truetype");
    /*src:url("#{$ionicons-font-path}/ionicons.eot?v=#{$ionicons-version}");
    src:url("#{$ionicons-font-path}/ionicons.eot?v=#{$ionicons-version}#iefix") format("embedded-opentype"),
     url("#{$ionicons-font-path}/ionicons.ttf?v=#{$ionicons-version}") format("truetype"),
